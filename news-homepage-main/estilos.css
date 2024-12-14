@@ -1,0 +1,130 @@
+.div-dir {
+    background-color: #011626; 
+    width: 300px;
+    padding: 20px; 
+    border-radius: 8px; 
+    right:20px;
+    top: 80px;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2); 
+    position: absolute;
+}
+.h1{
+    color:brown;
+}
+.h2{color:rgb(177, 116, 3)
+
+}
+.ul{ display:table-row
+
+}
+.button{
+    color:rgb(255, 255, 255);
+    cursor:pointer;
+    text-decoration: none;
+}
+.button:hover{
+    color: rgb(177, 116, 3)
+}
+.textodiv{
+    color:white
+}
+.botoesiniciais{
+    top: 10px;
+    float: top right;
+}
+
+.botoesiniciais:hover {
+    color: rgb(177, 116, 3)
+}
+
+.button2 {
+    color: rgb(196, 171, 171);
+    cursor: pointer;
+    text-decoration: none;
+    float: right;  
+    margin-right: 10px; 
+    font-size: 120%;
+    
+}
+.button2:hover{
+    color: rgb(177, 116, 3)
+}
+.imageminicial {
+    width: 71.2%;
+    height: auto;
+}
+.inicio{
+    position: absolute;
+    top: 60px;
+    left: 950px;
+}
+.letrona{
+    font-size: 500%;
+}
+.letra2{
+    color: rgb(177, 116, 3);
+    font-size: 200%;
+}
+.divtexto{
+    position: relative;
+    top: -50px;
+    right: 10px;
+}
+.section {
+    display: flex;  
+    align-items: center;  
+    justify-content: space-between;  
+    gap: 20px;
+}
+.letrinha {
+    font-size: 3rem;
+    flex: 1;
+}
+.section {
+    display: flex; 
+    gap: 20px;
+}
+.div2 {
+    width: 45%; 
+    padding: 10px;
+    background-color: #ffffff;
+}
+.div1 {
+    width: 30%; 
+    padding: 10px;
+    background-color: #ffffff;}
+.div1{
+    font-size: 500%;
+    font-weight: bolder;
+}
+.botaozinho{
+        background-color: #02005d; 
+        color: white;
+        padding: 15px 32px; 
+        text-align: center; 
+        text-decoration: none; 
+        display: inline-block; 
+        font-size: 20px; 
+        border: none; 
+        cursor: pointer; 
+        transition: background-color 0.3s; 
+}
+.botaozinho :hover{
+    color: rgb(177, 116, 3)
+
+}
+.vermelho {
+    color: red;
+}
+.botaofinal {
+    color: rgb(0, 0, 0);
+    cursor: pointer;
+    text-decoration: none;
+    float: right;  
+    margin-right: 10px; 
+    font-size: 120%;
+    
+}
+.buttonfinal:hover{
+    color: rgb(196, 5, 5)
+}
